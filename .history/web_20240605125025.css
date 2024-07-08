@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    padding: 15px;
+    cursor: pointer;
+}
+.background{
+    background-color: wh;
+}
